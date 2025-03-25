@@ -1,3 +1,7 @@
 Edited!! 25/03
 
 C O N F L I C T 2
+
+creating a conflict
+
+Removed what git put in and merged the files
